@@ -1,0 +1,5 @@
+configuramos git:
+git config --global user.name "nombre"
+git config --global user.email "email de registro en github"
+git config --list vemos la configuracion
+clear limpiamos terminal
